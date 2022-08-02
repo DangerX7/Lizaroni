@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - Key
+  - Door
+  - wall
+  - wall2
+  - SpikeLeftX2
+  - SceneUnlockerTag
+  - RegularEnemy
+  - JumpEnemy
+  - StandEnemy
+  - StandEnemyCollision
+  - Portal
+  - Sword
+  - right_limit
+  - up_limit
+  - down_limit
+  - left_limit
+  - right_limit_E
+  - left_limit_E
+  - up_limit_E
+  - down_limit_E
+  - armour
+  - doubleJump
+  - invincibility
+  - timeTravel
+  - weapon
+  - Boss
+  - wall3
+  - Door2
+  - ArmourEnemy
+  - projectile
+  - fire
+  - Var
+  - special
+  - Portals_A
+  - Portals_B
+  - Portals_C
+  - platform
+  - hole
+  - wallSecondary
+  - wallLeft
+  - wallRight
+  - wallUp
+  - wallDown
+  - New tag
+  - MapWall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dan
+  - 
+  - 
+  - 
+  - 
+  - Best
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obj
+    uniqueID: 1429028227
+    locked: 0

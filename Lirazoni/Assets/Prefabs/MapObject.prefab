@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4816105578966709924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1556623599793786851}
+  - component: {fileID: 6441218400888303836}
+  m_Layer: 0
+  m_Name: MapObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1556623599793786851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4816105578966709924}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.64, y: -1.16, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6441218400888303836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4816105578966709924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8beff3bdeb2ee24c975b9b8de756d33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cursor: {fileID: 4816105578966709924}
+  S2: {fileID: 0}
+  S3: {fileID: 0}
+  S4: {fileID: 0}
+  S5: {fileID: 0}
+  S6: {fileID: 0}
+  S7: {fileID: 0}
+  S8: {fileID: 0}
+  S9: {fileID: 0}
+  S10: {fileID: 0}
+  S11: {fileID: 0}
+  S12: {fileID: 0}
+  S13: {fileID: 0}
+  S14: {fileID: 0}
+  S15: {fileID: 0}
+  S16: {fileID: 0}
+  S17: {fileID: 0}
+  S18: {fileID: 0}
+  S19: {fileID: 0}
+  S20: {fileID: 0}
+  S21: {fileID: 0}
+  S22: {fileID: 0}
+  S23: {fileID: 0}
+  S24: {fileID: 0}
+  S25: {fileID: 0}
+  S26: {fileID: 0}
+  S27: {fileID: 0}
+  S28: {fileID: 0}
+  S29: {fileID: 0}
+  S30: {fileID: 0}
+  S31: {fileID: 0}
+  S32: {fileID: 0}
+  S33: {fileID: 0}
+  S34: {fileID: 0}
+  S35: {fileID: 0}
+  S36: {fileID: 0}
+  S37: {fileID: 0}
+  S38: {fileID: 0}
+  S39: {fileID: 0}
+  S40: {fileID: 0}
+  S41: {fileID: 0}
+  S42: {fileID: 0}
+  S43: {fileID: 0}
+  S44: {fileID: 0}
+  S45: {fileID: 0}
+  S46: {fileID: 0}
+  S47: {fileID: 0}
+  S48: {fileID: 0}
+  S49: {fileID: 0}
+  S50: {fileID: 0}
+  scene: 0
+  S2active: 0
+  S3active: 0
+  S4active: 0
+  S5active: 0
+  S6active: 0
+  S7active: 0
+  S8active: 0
+  S9active: 0
+  S10active: 0
+  S11active: 0
+  S12active: 0
+  S13active: 0
+  S14active: 0
+  S15active: 0
+  S16active: 0
+  S17active: 0
+  S18active: 0
+  S19active: 0
+  S20active: 0
+  S21active: 0
+  S22active: 0
+  S23active: 0
+  S24active: 0
+  S25active: 0
+  S26active: 0
+  S27active: 0
+  S28active: 0
+  S29active: 0
+  S30active: 0
+  S31active: 0
+  S32active: 0
+  S33active: 0
+  S34active: 0
+  S35active: 0
+  S36active: 0
+  S37active: 0
+  S38active: 0
+  S39active: 0
+  S40active: 0
+  S41active: 0
+  S42active: 0
+  S43active: 0
+  S44active: 0
+  S45active: 0
+  S46active: 0
+  S47active: 0
+  S48active: 0
+  S49active: 0
+  S50active: 0
